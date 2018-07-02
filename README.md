@@ -121,7 +121,7 @@ Copyright (c) 2015 Pandao
 
 > 小修改
 
-在 /sample 下加入 image-upload-aspx.html 內容是把原本的 server 端接 php 的部分，改指到 /example/aspx/uploadpix.aspx 並實作使用 aspx 接受上傳檔案
+在 /exmaples/ 下加入 image-upload-aspx.html 內容是把原本的 server 端接 php 的部分，改指到 /exmaples/aspx/uploadpix.aspx 並實作使用 aspx 接受上傳檔案
 
 
 
